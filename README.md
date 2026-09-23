@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **scikit-learn**
 
-- 📝 I regularly write articles on [https://a99k.medium.com/](https://a99k.medium.com/)
-
 - 💬 Ask me about **Machine Learning || Python || Data Analytics || MYSQL || PowerBi || Tableau || MS Excel**
 
 - 📫 How to reach me **akdevil27boy@gmail.com**
